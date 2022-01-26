@@ -1,5 +1,9 @@
-# How to test Spring Boot Application, Controllers and Services
+# This is Rest API for Empolyees CRUD operation developed using Spring Boot, JUnit 5, Swagger2
 
-1. [Testing with Spring Boot 2.4 and JUnit 5](https://howtodoinjava.com/spring-boot2/testing/spring-boot-2-junit-5/)
+## We have implemented Rest APIS with help of Spring boot which make use of following concepts.
+1. CRUD API's
+2. Exception handling
+3. Swagger configuration and documentation(http://localhost:8080/swagger-ui/)
+4. Test cases using JUNIT and Mockito
 
  
